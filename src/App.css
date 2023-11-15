@@ -1,0 +1,24 @@
+.imageMap{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.searchArea{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 40px;
+}
+.srch{
+    padding: 10px 50px;
+    margin-right: 30px;
+    border-radius: 20px;
+    border-color: blue;
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 20px;
+    border-color: red;
+}
